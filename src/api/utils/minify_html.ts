@@ -10,7 +10,7 @@ export default function minify_html(html: string) {
 		ignoreCustomComments: [/^#/],
 		minifyCSS: true,
 		minifyJS: false,
-		removeAttributeQuotes: true,
+		removeAttributeQuotes: false,
 		removeComments: true,
 		removeOptionalTags: true,
 		removeRedundantAttributes: true,

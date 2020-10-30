@@ -12,7 +12,7 @@ export default function minify_html(html: string) {
 		minifyJS: false,
 		removeAttributeQuotes: false,
 		removeComments: true,
-		removeOptionalTags: true,
+		removeOptionalTags: false,
 		removeRedundantAttributes: true,
 		removeScriptTypeAttributes: true,
 		removeStyleLinkTypeAttributes: true,

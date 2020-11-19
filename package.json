@@ -87,7 +87,7 @@
     "dev": "rollup -cw",
     "prepublishOnly": "npm test"
   },
-  "repository": "https://github.com/sveltejs/sapper",
+  "repository": "https://github.com/awilts/sapper",
   "keywords": [
     "svelte",
     "isomorphic",
